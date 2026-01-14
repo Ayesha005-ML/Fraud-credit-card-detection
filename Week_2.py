@@ -1,6 +1,7 @@
 import tensorflow as tf
 from tensorflow.keras import layers, models
 
+
 # 1. Building the Model from Scratch
 model = models.Sequential([
     # Input layer based on feature count
