@@ -4,3 +4,5 @@ This project uses a Deep Neural Network to Identify fraudulent transactions.
 ## Week 02: Model Architecture 
 ## Week 03: Model Tuning 
 ## Week 04: Final Evaluation
+"Project Tools"
+(python, Tensorflow, Pandas)
