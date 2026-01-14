@@ -16,7 +16,7 @@ Recall: Optimized(Model's ability to find all actual fraud cases)
 
 Final Loss: 0.0783
 
-*"Project Tools"
+*"Project Tools"*
 
 (python, Tensorflow, Pandas)
 
