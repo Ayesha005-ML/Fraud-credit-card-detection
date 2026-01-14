@@ -8,11 +8,17 @@ This project uses a Deep Neural Network to Identify fraudulent transactions.
 
 ## Week 04: Final Evaluation
 
+Accuracy: 98.51% (overall correctness)
+
+Precision: High (Model's ability to not label a legit transaction as fraud)
+
+Recall: Optimized(Model's ability to find all actual fraud cases)
+
+Final Loss: 0.0783
+
 *"Project Tools"
 
 (python, Tensorflow, Pandas)
-
-WEEK_04 Model Accuracy(98.51%)
 
 "Future Work"
 
