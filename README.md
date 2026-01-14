@@ -7,3 +7,5 @@ This project uses a Deep Neural Network to Identify fraudulent transactions.
 "Project Tools"
 (python, Tensorflow, Pandas)
 WEEK_04 Model Accuracy(98.51%)
+"Future Work"
+(e.g, "Deploying as a Web App")
