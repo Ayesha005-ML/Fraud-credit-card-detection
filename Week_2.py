@@ -1,11 +1,12 @@
 import tensorflow as tf
 from tensorflow.keras import layers, models
+# Finalized Model Architecture for Week 2 
 
 # 1. Building the Model from Scratch
 model = models.Sequential([
     # Input layer based on feature count
     layers.Dense(64, activation='relu', input_shape=(x_train.shape[1],)),
-    layers.Dropout(0.2), # Overfitting se bachnay ke liye
+    layers.Dropout(0.2), 
     
     # Hidden layers
     layers.Dense(32, activation='relu'),
