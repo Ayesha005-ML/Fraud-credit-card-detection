@@ -27,3 +27,5 @@ Final Loss: 0.0783
 Project Successfully Completed
 
 **Final Result: Model successfully trained wih 98.51% accuracy.**
+
+*for commits*
