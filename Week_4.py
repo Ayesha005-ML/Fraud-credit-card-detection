@@ -54,3 +54,8 @@ if status == 1:
     print("RESULT: [1] -> ALERT: Potential Fraud!")
 else:
     print("RESULT: [0] -> Transaction is Legitimate.")
+    
+ from sklearn.metrics import classification_report
+# Model evaluation with detailed metrics
+y_pred_bool = (model.predict(x_test) > 0.5).astype("int32")
+print(classification_report(y_test, y_pred_bool))
